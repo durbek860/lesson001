@@ -8,9 +8,9 @@ function SinglePage() {
     // let params = useParams()
     // let id = params.id
 
-    // let id = useParams().id
+    let id = useParams().id
 
-    let {id} = useParams()
+    // let {id} = useParams()
 
     const [user,setUser]= useState(null)
 
