@@ -1,0 +1,14 @@
+ol{
+    margin: 40px;
+}
+
+
+.students {
+    width: 100%;
+    display: flex;
+    gap: 30px;
+}
+
+.item{
+    padding: 10px;
+}
