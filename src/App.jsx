@@ -8,6 +8,7 @@ import SinglePage from "./pages/login/singlePage/SinglePage"
 
 function App() {
   console.log("ok");
+  console.log("ok2");
   
   return <div>
     <Routes>
