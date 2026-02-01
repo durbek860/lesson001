@@ -7,6 +7,8 @@ import SinglePage from "./pages/login/singlePage/SinglePage"
 
 
 function App() {
+  console.log("ok");
+  
   return <div>
     <Routes>
       <Route path="/login" element={<Login />} />
